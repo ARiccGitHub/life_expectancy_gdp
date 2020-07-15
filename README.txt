@@ -44,7 +44,7 @@ Learn about Jupyter Notebooks, a cool way of combining Python code with explanat
 Links:
 
 My Blog, Life Expectancy and GDP
-https://alexricciardi.wixsite.com/alex-ricciardi/post/life-expectancy-and-gdp
+https://www.alex-ricciardi.com/post/life-expectancy-and-gdp
 
 ----------------------------------------------------------------------------------------
 
