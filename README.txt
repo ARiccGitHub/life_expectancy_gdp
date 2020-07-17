@@ -14,6 +14,8 @@ Project Requirements:
 Python v2 or later:
 https://www.python.org/
 
+pandas - Python Data Analysis Library:
+https://pandas.pydata.org/
 
 Matplotlib
 https://matplotlib.org/
@@ -28,23 +30,19 @@ https://jupyter.org/
 
 Overview:
 
-In this project, we will be visualizing and looking for insights in a dataset from Kaggle (https://www.kaggle.com/fkosmowski/kivadhsv1), 
-that contains information about loans awarded by the non-profit Kiva (https://www.kiva.org/).
+I analyze data on GDP and life expectancy from the World Health Organization 
+and the World Bank to try and identify the relationship between the GDP and life expectancy of six countries.
 
-Using Seaborn, we will explore the average loan amount by country using aggregated bar charts, 
-and visualize the distribution of loan amount by project type and gender using box plots and violin plots.
+During this project, I analyze, prepare, and plot data, and seek to answer questions in a meaningful way.
 
-You will be completing this project on your computer, similar to the other off-platform projects that we’ve done during this path.
-
-WORKING ON YOUR COMPUTER
-Learn about Jupyter Notebooks, a cool way of combining Python code with explanations or instruction in a web terminal.
+After I performed analysis, I created a blog post to share mu findings.
 
 ----------------------------------------------------------------------------------------
 
 Links:
 
 My Blog, Life Expectancy and GDP
-https://www.alex-ricciardi.com/post/life-expectancy-and-gdp
+https://alexricciardi.wixsite.com/alex-ricciardi/post/life-expectancy-and-gdp
 
 ----------------------------------------------------------------------------------------
 
